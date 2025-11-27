@@ -1,0 +1,8 @@
+D:\Atividades-csahrp\buscaLinear1\buscaLinear1\bin\Debug\buscaLinear1.exe.config
+D:\Atividades-csahrp\buscaLinear1\buscaLinear1\bin\Debug\buscaLinear1.exe
+D:\Atividades-csahrp\buscaLinear1\buscaLinear1\bin\Debug\buscaLinear1.pdb
+D:\Atividades-csahrp\buscaLinear1\buscaLinear1\obj\Debug\buscaLinear1.csproj.AssemblyReference.cache
+D:\Atividades-csahrp\buscaLinear1\buscaLinear1\obj\Debug\buscaLinear1.csproj.CoreCompileInputs.cache
+D:\Atividades-csahrp\buscaLinear1\buscaLinear1\obj\Debug\buscaLinear1.exe
+D:\Atividades-csahrp\buscaLinear1\buscaLinear1\obj\Debug\buscaLinear1.pdb
+D:\Atividades-csahrp\buscaLinear1\buscaLinear1\obj\Debug\buscaLinear1.exe.config
