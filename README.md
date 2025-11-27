@@ -1,4 +1,4 @@
-# 🧍‍♂️🧍‍♀️ Busca Linear de Pessoa por CPF --- C
+# 🧍‍♂️🧍‍♀️ Busca Linear de Pessoa por CPF 
 
 Este é um projeto simples em **C#** que demonstra como realizar uma
 **busca linear** em uma lista de objetos do tipo `Pessoa`, procurando
